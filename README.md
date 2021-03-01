@@ -8,9 +8,7 @@
 
 <p align="center"><samp>Dev, curious and coffee lover. I love learning about myself and the world around me. Passionate about giving value with my actions and thoughts.
 </samp></p>
-<br>
 <hr>
-<br>
 <h2>
   <samp>
     🔭 I’m currently working (All personal projects)
@@ -22,9 +20,9 @@
     <li>🧱 Frontend developer and project manager at <a href="https://blockdev.es/">Blockdev</a>.</li>
     <li>🦄 Operations manager at <a href="https://github.com/6Pi-Devs">Unniver</a>.</li>
   </ul>
-<p align="center">
+<!-- <p align="center">
   <img width="100" src="https://media.giphy.com/media/VIQDzPqIjJBg6UUFUl/giphy.gif">
-</p>
+</p> -->
 
 <h2>
   <samp>
@@ -37,9 +35,9 @@
     <li>🤠 Co-funder of <a href="https://multitecua.com/">MultitecUA</a>.</li>
   </ul>  
 </samp>
-<p align="center">
+<!-- <p align="center">
   <img width="150" src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.gif">
-</p>
+</p> -->
 
 <h2>
   <samp>
