@@ -10,7 +10,7 @@
 </samp></p>
 <br>
 <hr>
-
+<br>
 <h2>
   <samp>
     🔭 I’m currently working (All personal projects)
@@ -25,7 +25,7 @@
 <p align="center">
   <img width="100" src="https://media.giphy.com/media/VIQDzPqIjJBg6UUFUl/giphy.gif">
 </p>
-<br>
+
 <h2>
   <samp>
     🌱 I’m currently learning
@@ -40,7 +40,7 @@
 <p align="center">
   <img width="150" src="https://media.giphy.com/media/M9042O8aXyLNHjk78f/giphy.gif">
 </p>
-<br>
+
 <h2>
   <samp>
     🤔 I’m Interesting on
