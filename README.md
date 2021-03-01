@@ -11,7 +11,7 @@
 <hr>
 <h2>
   <samp>
-    🔭 I’m currently working (All personal projects)
+    🔭 I’m currently working
   </samp>
 </h2>
 <samp>    
