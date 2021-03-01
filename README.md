@@ -55,11 +55,11 @@
 
 <br>
 
-<h2 align="center">
+<h3 align="center">
   <samp>
     ¿Wanna talk? just hit me up on my social
   </samp>
-</h2>
+</h3>
 <p align="center">
 <a href= "https://www.twitch.tv/codingescobar"><img width="30" src="https://img.icons8.com/color/48/000000/twitch--v3.png"/></a>
 <a href= "https://twitter.com/_estebanescobar"><img width="30" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
