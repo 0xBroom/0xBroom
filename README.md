@@ -16,9 +16,9 @@
 </h2>
 <samp>    
   <ul>
-    <li>👨‍💻 Software developer and operations manager at <a href="https://github.com/6Pi-Devs">Sixpi</a>.</li>
-    <li>🧱 Frontend developer and project manager at <a href="https://blockdev.es/">Blockdev</a>.</li>
-    <li>🦄 Operations manager at <a href="https://github.com/6Pi-Devs">Unniver</a>.</li>
+    <li>👨‍💻 Co-founder, Software developer and operations manager at <a href="https://github.com/6Pi-Devs">Sixpi</a>.</li>
+    <li>🧱 Co-founder, Frontend developer and project manager at <a href="https://blockdev.es/">Blockdev</a>.</li>
+    <li>🦄 Co-founder and Operations manager at <a href="https://github.com/6Pi-Devs">Unniver</a>.</li>
   </ul>
 <!-- <p align="center">
   <img width="100" src="https://media.giphy.com/media/VIQDzPqIjJBg6UUFUl/giphy.gif">
