@@ -1,6 +1,4 @@
-<h1 align="center">
-  <samp> Hi there 👋 I'm Esteban Escobar 🤠 </samp>
-</h1>
+[![Hi there I'm Esteban Escobar ](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b_1f920&text=Hi%2520there%2520I%27m%2520Esteban%2520Escobar%2520)](https://pimp-my-readme.webapp.io)
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/L32oltdewTsZeke1R8/giphy.gif">
@@ -11,7 +9,7 @@
 <hr>
 <h2>
   <samp>
-    🔭 I’m currently working
+    🔭 StartUps I've founded.
   </samp>
 </h2>
 <samp>    
@@ -46,10 +44,9 @@
 </h2>
 <samp>    
   <ul>
-    <li>🦄 Digital products.</li>
-    <li>🤖 NFT.</li>
-    <li>🧱 Blockchain.</li>
-    <li>🦓 Startup.</li>
+    <li>👷‍♂️ Project Management.</li>
+    <li>💎 Crypto.</li>
+    <li>🦓 Startups.</li>
   </ul>  
 </samp>
 
