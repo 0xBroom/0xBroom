@@ -1,4 +1,4 @@
-[![Hi there I'm Esteban Escobar ](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b_1f920&text=Hi%2520there%2520I%27m%2520Esteban%2520Escobar%2520)](https://pimp-my-readme.webapp.io)
+<h1 align="center"> Hi there! I'm Esteban Escobar </h1>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/L32oltdewTsZeke1R8/giphy.gif">
@@ -17,6 +17,7 @@
     <li>👨‍💻 Co-founder, Software developer and operations manager at <a href="https://github.com/6Pi-Devs">Sixpi</a>.</li>
     <li>🧱 Co-founder, Frontend developer and project manager at <a href="https://blockdev.es/">Blockdev</a>.</li>
     <li>🦄 Co-founder and Operations manager at <a href="https://github.com/6Pi-Devs">Unniver</a>.</li>
+    <li>🚴 Founding Engineer and QA Lead at <a href="https://allinbiking.com">All In Biking</a>.</li>
   </ul>
 <!-- <p align="center">
   <img width="100" src="https://media.giphy.com/media/VIQDzPqIjJBg6UUFUl/giphy.gif">
@@ -29,7 +30,6 @@
 </h2>
 <samp>    
   <ul>
-    <li>👨‍🎓 Multimedia engineering student at <a href="https://www.ua.es/">UA</a>.</li>
     <li>🤠 Co-funder of <a href="https://multitecua.com/">MultitecUA</a>.</li>
   </ul>  
 </samp>
@@ -44,7 +44,7 @@
 </h2>
 <samp>    
   <ul>
-    <li>👷‍♂️ Project Management.</li>
+    <li>👷‍♂️ Digital Products.</li>
     <li>💎 Crypto.</li>
     <li>🦓 Startups.</li>
   </ul>  
